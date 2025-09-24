@@ -2,7 +2,7 @@ import streamlit as st
 import requests 
 import json
 
-API_URL = "http://127.0.0.1:5000"
+API_URL = "https://monkeypox-detection-nl09.onrender.com"
 
 st.title("Monkeypox Detection App")
 st.write("Check the boxes for any symptoms you are experiencing.")
